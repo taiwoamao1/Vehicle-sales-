@@ -44,11 +44,14 @@ The data was identified for the analysis.
   - Ets= Residual SD = 0.9472.
   - Arima model= Residual SD = 1.099091.
  
-- Residuals for seasonal naives
+  #### Residuals for seasonal naives
     
     ![Rplot03](https://github.com/taiwoamao1/Vehicle-sales-/assets/112169247/e9f3d0db-fb93-48f6-80c8-f7e8111b9a56)
+  #### Residuals for ETS
+   ![Rplot06](https://github.com/taiwoamao1/Vehicle-sales-/assets/112169247/f5f87504-4434-4415-9fd7-5806d7571006)
 
-  -  Residuals from ARIMA model
+
+  #### Residuals from ARIMA model
     
    ![Rplot04](https://github.com/taiwoamao1/Vehicle-sales-/assets/112169247/b2593a2c-dc69-4b9c-97ad-c2f4aef55ebb)
 
@@ -58,7 +61,7 @@ Seasonal naives show the average mean each month is the same as the following mo
 
 ARIMA model- shows a steady flow in the trend.
 
-Below is the forecasting result for the next 3 years. 
+### Below is the forecasting result for the next 3 years. 
 
 
 Forecasts:
