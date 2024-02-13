@@ -60,6 +60,7 @@ The data was identified for the analysis.
 Seasonal naives show the average mean each month is the same as the following month.
 
 ARIMA model- shows a steady flow in the trend.
+- From the above result of the residuals the best-fit forecasting model is the exponential time series (ETS) with  Ets= Residual SD = 0.9472. The lower the value the better the fit.
 
 ### Below is the forecasting result for the next 3 years. 
 
